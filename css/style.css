@@ -141,4 +141,45 @@ a{
     top: 142px;
     right: 330px;
 }
-
+.impuls{
+    width: 1110px;
+    height: 357px;
+    border: 2px solid black;
+    margin: auto;
+    margin-bottom: 80px;}
+.prosmotren{
+        margin-right: 856px;
+        padding-bottom: 32px;
+    }
+.n{
+    background-color:#E5E5E5 ;
+    padding-bottom: 80px;
+}
+.conets{
+    width: 1920px;
+    height: 557px;
+    background: FFFFFF;
+    display: flex;
+    justify-content: center;
+}
+.popcategories{
+    margin-top: 67px;
+    width: 255px;
+    height: 253px;
+    /* border: 1px solid black; */
+    margin-left: 10px;
+}
+.risochca{
+    width: 100%;
+    border: 1px solid #EFEFEF;
+}
+.menuscka{
+    width: 100px;
+    height: 158px;
+    /* border: 1px solid black; */
+    margin-top: 25px;
+    display: flex;
+}
+.categor{
+    color: #828282;
+}
