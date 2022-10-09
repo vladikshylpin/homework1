@@ -4,13 +4,14 @@
     box-sizing: border-box;
     list-style: none;
     text-decoration: none;
+    margin: auto;
 }
 a{
     color: black;
 }
 .menu {
     display: flex;
-    width: 100%;
+    width: 1330px;
     height: 95px;
     border: 1px solid teal;
     justify-content: space-around;
@@ -19,18 +20,20 @@ a{
 .cnopkaa{
     padding: 10px 36px;
     border: 1px solid black;
-    margin-right: -35px;
+    margin-right: -5px;
 }
 .cnopkab{
     padding: 10px 22px;
     background-color: #FF6336;
     color: white;
-    margin-left: -35px;
+    margin-left: -20px;
 }
 .q{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    width: 1330px;
+
 }
 .w{
     height: 326px;
@@ -56,7 +59,7 @@ a{
 }
 .qw{
     background-color: #FF9C7D;
-    width: 100%;
+    width: 1330px;
     height: 455px;
 }
 .qwe{
@@ -69,4 +72,20 @@ a{
 .qwer{
     text-align: center;
 }
+.conteiner{
+    display: flex;
+    width: 1330px;
+    height: 632px;
+}
+.we{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: 650px;
+    height: 341px;
+}
+.wer{
+    text-align: left;
+}
+
 
